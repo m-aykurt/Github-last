@@ -1,6 +1,8 @@
 # header kodları burada olacaktır
-# master ile update
+
+# header değişiklik
 1.paragraf
 2.paragraf
 -Button 1
 -Button 2
+
